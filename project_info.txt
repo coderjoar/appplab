@@ -1,0 +1,10 @@
+color 
+navy blue #242f51; headline
+ash  #616368; paragraph
+blue #2500f9: button
+
+pink  #f55767;
+
+
+
+
